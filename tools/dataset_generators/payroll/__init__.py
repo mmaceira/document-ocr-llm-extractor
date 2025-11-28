@@ -1,0 +1,1 @@
+"""Payroll dataset generator module."""
